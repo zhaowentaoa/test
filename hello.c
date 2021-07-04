@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("\n");
+    printf("777788888\n");
      printf("dev code\n");
     return 0;
 }
